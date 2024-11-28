@@ -1,0 +1,6 @@
+.nav-item, td a{
+    margin-right:15px;
+}
+#categoryRow,#commandRow,#exampleRow,#navMenu{
+    display:none;
+}
